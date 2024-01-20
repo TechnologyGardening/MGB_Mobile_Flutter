@@ -44,42 +44,38 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyA9L4xXXnXwPa62ioA2LShQ-0RdAcbeotc',
-    appId: '1:823307041176:web:ddaf3c80339832920653ed',
-    messagingSenderId: '823307041176',
-    projectId: 'codingwitht-c6d0f',
-    authDomain: 'codingwitht-c6d0f.firebaseapp.com',
-    storageBucket: 'codingwitht-c6d0f.appspot.com',
-    measurementId: 'G-GPNQNEKECP',
+    apiKey: 'AIzaSyCw28qlBXBlKdG_JvZnEcC74MNesI3P4EY',
+    appId: '1:1079862973567:web:905d283486f0deafd21b4a',
+    messagingSenderId: '1079862973567',
+    projectId: 'mygardenstore-158cb',
+    authDomain: 'mygardenstore-158cb.firebaseapp.com',
+    storageBucket: 'mygardenstore-158cb.appspot.com',
+    measurementId: 'G-SEM55HBFB4',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAdRjw0tdFdERdPZDoMagTbxPhSg368Zic',
-    appId: '1:823307041176:android:892482637f44e4c10653ed',
-    messagingSenderId: '823307041176',
-    projectId: 'codingwitht-c6d0f',
-    storageBucket: 'codingwitht-c6d0f.appspot.com',
+    apiKey: 'AIzaSyDek3dwIUNGYDsM7zr0wTdXaSVTR3OsJDc',
+    appId: '1:1079862973567:android:dd899fa7d7116e06d21b4a',
+    messagingSenderId: '1079862973567',
+    projectId: 'mygardenstore-158cb',
+    storageBucket: 'mygardenstore-158cb.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDyypc4MyqBBneptEWpF17u3s7cu8X4wIY',
-    appId: '1:823307041176:ios:cef880e79df81b420653ed',
-    messagingSenderId: '823307041176',
-    projectId: 'codingwitht-c6d0f',
-    storageBucket: 'codingwitht-c6d0f.appspot.com',
-    androidClientId: '823307041176-qfcmju8p2mbqre4rl5kufhr7dhs9hs33.apps.googleusercontent.com',
-    iosClientId: '823307041176-ao9frv5a25ebiimfstp79lnc214urhgj.apps.googleusercontent.com',
+    apiKey: 'AIzaSyAgYhFJU08xuqXPuL5ACUZPnSWKC7z4Pfc',
+    appId: '1:1079862973567:ios:b28f56ac4102fc39d21b4a',
+    messagingSenderId: '1079862973567',
+    projectId: 'mygardenstore-158cb',
+    storageBucket: 'mygardenstore-158cb.appspot.com',
     iosBundleId: 'com.example.cwtEcommerceApp',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDyypc4MyqBBneptEWpF17u3s7cu8X4wIY',
-    appId: '1:823307041176:ios:3be076689b6866ea0653ed',
-    messagingSenderId: '823307041176',
-    projectId: 'codingwitht-c6d0f',
-    storageBucket: 'codingwitht-c6d0f.appspot.com',
-    androidClientId: '823307041176-qfcmju8p2mbqre4rl5kufhr7dhs9hs33.apps.googleusercontent.com',
-    iosClientId: '823307041176-7pen3ehk09mbnp7ukg6lm4a9sgr80pjr.apps.googleusercontent.com',
+    apiKey: 'AIzaSyAgYhFJU08xuqXPuL5ACUZPnSWKC7z4Pfc',
+    appId: '1:1079862973567:ios:a0ec5e9bf59547cad21b4a',
+    messagingSenderId: '1079862973567',
+    projectId: 'mygardenstore-158cb',
+    storageBucket: 'mygardenstore-158cb.appspot.com',
     iosBundleId: 'com.example.cwtEcommerceApp.RunnerTests',
   );
 }
